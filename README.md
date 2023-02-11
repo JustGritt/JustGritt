@@ -4,7 +4,7 @@
 
 ## 👓 About me
 
-I'm Alexis, a 22 year old developer from France. I'm currently studying Web development at at [ESGI](https://www.esgi.fr/), a french school of computer science in Paris. I do a lot of things and mainly interested in web development, game development and art/visuals. I'm also a big fan of anime and manga. 📚🎮🎨💡🛌
+I'm Alexis, a 22 year old developer from France. I'm currently studying Web development at [ESGI](https://www.esgi.fr/), a french school of computer science in Paris. I do a lot of things and mainly interested in web development, game development and art/visuals. I'm also a big fan of anime and manga. 📚🎮🎨💡🛌
 
 - 📫 You can reach me at ```alexistan dot webdev at gmail dot com``` 🤖
 - 🌐 ~~You can also check out my [website](https://justgritt.github.io/)~~ (not available yet 😅)
