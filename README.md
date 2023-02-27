@@ -55,10 +55,10 @@ I'm Alexis, a 22 year old developer from France. I'm currently studying Web deve
   <summary>✨ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/alexdieudonne/webos/pull/5) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
-2. 💪 Opened PR [#5](https://github.com/alexdieudonne/webos/pull/5) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
-3. 🎉 Merged PR [#1](https://github.com/JustGritt/Playwright-Automation/pull/1) in [JustGritt/Playwright-Automation](https://github.com/JustGritt/Playwright-Automation)
-4. 💪 Opened PR [#1](https://github.com/JustGritt/Playwright-Automation/pull/1) in [JustGritt/Playwright-Automation](https://github.com/JustGritt/Playwright-Automation)
-  5. 🗣 Commented on [#1]()
+1. 🎉 Merged PR [#6](https://github.com/alexdieudonne/webos/pull/6) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
+2. 💪 Opened PR [#6](https://github.com/alexdieudonne/webos/pull/6) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
+3. 🎉 Merged PR [#5](https://github.com/alexdieudonne/webos/pull/5) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
+4. 💪 Opened PR [#5](https://github.com/alexdieudonne/webos/pull/5) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
+5. 🎉 Merged PR [#1](https://github.com/JustGritt/Playwright-Automation/pull/1) in [JustGritt/Playwright-Automation](https://github.com/JustGritt/Playwright-Automation)
   <!--END_SECTION:activity-->
 </details>
