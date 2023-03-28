@@ -55,10 +55,10 @@ I'm Alexis, a 22 year old developer from France. I'm currently studying Web deve
   <summary>✨ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/alexdieudonne/webos/pull/13) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
-2. 💪 Opened PR [#13](https://github.com/alexdieudonne/webos/pull/13) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
-3. 🎉 Merged PR [#11](https://github.com/alexdieudonne/webos/pull/11) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
-4. 💪 Opened PR [#11](https://github.com/alexdieudonne/webos/pull/11) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
-5. 🎉 Merged PR [#10](https://github.com/alexdieudonne/webos/pull/10) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
+1. 🎉 Merged PR [#1](https://github.com/JustGritt/Hackathon/pull/1) in [JustGritt/Hackathon](https://github.com/JustGritt/Hackathon)
+2. 💪 Opened PR [#1](https://github.com/JustGritt/Hackathon/pull/1) in [JustGritt/Hackathon](https://github.com/JustGritt/Hackathon)
+3. 🎉 Merged PR [#13](https://github.com/alexdieudonne/webos/pull/13) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
+4. 💪 Opened PR [#13](https://github.com/alexdieudonne/webos/pull/13) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
+5. 🎉 Merged PR [#11](https://github.com/alexdieudonne/webos/pull/11) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
   <!--END_SECTION:activity-->
 </details>
