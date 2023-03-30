@@ -55,10 +55,10 @@ I'm Alexis, a 22 year old developer from France. I'm currently studying Web deve
   <summary>✨ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/JustGritt/Hackathon/pull/7) in [JustGritt/Hackathon](https://github.com/JustGritt/Hackathon)
-2. 💪 Opened PR [#7](https://github.com/JustGritt/Hackathon/pull/7) in [JustGritt/Hackathon](https://github.com/JustGritt/Hackathon)
-3. 🎉 Merged PR [#1](https://github.com/JustGritt/Hackathon/pull/1) in [JustGritt/Hackathon](https://github.com/JustGritt/Hackathon)
-4. 💪 Opened PR [#1](https://github.com/JustGritt/Hackathon/pull/1) in [JustGritt/Hackathon](https://github.com/JustGritt/Hackathon)
-5. 🎉 Merged PR [#13](https://github.com/alexdieudonne/webos/pull/13) in [alexdieudonne/webos](https://github.com/alexdieudonne/webos)
+1. 🎉 Merged PR [#15](https://github.com/JustGritt/Hackathon/pull/15) in [JustGritt/Hackathon](https://github.com/JustGritt/Hackathon)
+2. 💪 Opened PR [#15](https://github.com/JustGritt/Hackathon/pull/15) in [JustGritt/Hackathon](https://github.com/JustGritt/Hackathon)
+3. 🎉 Merged PR [#7](https://github.com/JustGritt/Hackathon/pull/7) in [JustGritt/Hackathon](https://github.com/JustGritt/Hackathon)
+4. 💪 Opened PR [#7](https://github.com/JustGritt/Hackathon/pull/7) in [JustGritt/Hackathon](https://github.com/JustGritt/Hackathon)
+5. 🎉 Merged PR [#1](https://github.com/JustGritt/Hackathon/pull/1) in [JustGritt/Hackathon](https://github.com/JustGritt/Hackathon)
   <!--END_SECTION:activity-->
 </details>
