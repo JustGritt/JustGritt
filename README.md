@@ -55,10 +55,10 @@ I'm Alexis, a 22 year old developer from France. I'm currently studying Web deve
   <summary>✨ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/JustGritt/Payment-Platform/pull/7) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
-2. 💪 Opened PR [#6](https://github.com/JustGritt/Payment-Platform/pull/6) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
-3. 🚀 Published release [Workshop initial](https://github.com/JustGritt/TBOI-HertaCubeBaby/releases/tag/Initial) in [JustGritt/TBOI-HertaCubeBaby](https://github.com/JustGritt/TBOI-HertaCubeBaby)
-4. 💪 Opened PR [#3](https://github.com/JustGritt/ToDo-Testing/pull/3) in [JustGritt/ToDo-Testing](https://github.com/JustGritt/ToDo-Testing)
-5. 🎉 Merged PR [#29](https://github.com/JustGritt/Hackathon/pull/29) in [JustGritt/Hackathon](https://github.com/JustGritt/Hackathon)
+1. 🎉 Merged PR [#7](https://github.com/JustGritt/Payment-Platform/pull/7) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
+2. 💪 Opened PR [#7](https://github.com/JustGritt/Payment-Platform/pull/7) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
+3. 💪 Opened PR [#6](https://github.com/JustGritt/Payment-Platform/pull/6) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
+4. 🚀 Published release [Workshop initial](https://github.com/JustGritt/TBOI-HertaCubeBaby/releases/tag/Initial) in [JustGritt/TBOI-HertaCubeBaby](https://github.com/JustGritt/TBOI-HertaCubeBaby)
+5. 💪 Opened PR [#3](https://github.com/JustGritt/ToDo-Testing/pull/3) in [JustGritt/ToDo-Testing](https://github.com/JustGritt/ToDo-Testing)
   <!--END_SECTION:activity-->
 </details>
