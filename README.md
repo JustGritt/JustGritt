@@ -55,10 +55,10 @@ I'm Alexis, a 22 year old developer from France. I'm currently studying Web deve
   <summary>✨ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/JustGritt/Payment-Platform/pull/14) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
-2. 💪 Opened PR [#14](https://github.com/JustGritt/Payment-Platform/pull/14) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
-3. 💪 Opened PR [#12](https://github.com/JustGritt/Payment-Platform/pull/12) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
-4. 💪 Opened PR [#9](https://github.com/JustGritt/Payment-Platform/pull/9) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
-5. 🎉 Merged PR [#7](https://github.com/JustGritt/Payment-Platform/pull/7) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
+1. 🎉 Merged PR [#15](https://github.com/JustGritt/Payment-Platform/pull/15) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
+2. 💪 Opened PR [#15](https://github.com/JustGritt/Payment-Platform/pull/15) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
+3. 🎉 Merged PR [#14](https://github.com/JustGritt/Payment-Platform/pull/14) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
+4. 💪 Opened PR [#14](https://github.com/JustGritt/Payment-Platform/pull/14) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
+5. 💪 Opened PR [#12](https://github.com/JustGritt/Payment-Platform/pull/12) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
   <!--END_SECTION:activity-->
 </details>
