@@ -55,10 +55,10 @@ I'm Alexis, a 22 year old developer from France. I'm currently studying Web deve
   <summary>✨ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JustGritt/Smol-CSV-Cleaner/pull/1) in [JustGritt/Smol-CSV-Cleaner](https://github.com/JustGritt/Smol-CSV-Cleaner)
-2. 💪 Opened PR [#1](https://github.com/JustGritt/Smol-CSV-Cleaner/pull/1) in [JustGritt/Smol-CSV-Cleaner](https://github.com/JustGritt/Smol-CSV-Cleaner)
-3. 🎉 Merged PR [#19](https://github.com/JustGritt/Payment-Platform/pull/19) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
-4. 💪 Opened PR [#19](https://github.com/JustGritt/Payment-Platform/pull/19) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
-5. 🎉 Merged PR [#17](https://github.com/JustGritt/Payment-Platform/pull/17) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
+1. 🎉 Merged PR [#1](https://github.com/JustGritt/ChallengeStack5A/pull/1) in [JustGritt/ChallengeStack5A](https://github.com/JustGritt/ChallengeStack5A)
+2. 💪 Opened PR [#1](https://github.com/JustGritt/ChallengeStack5A/pull/1) in [JustGritt/ChallengeStack5A](https://github.com/JustGritt/ChallengeStack5A)
+3. 🎉 Merged PR [#1](https://github.com/JustGritt/Smol-CSV-Cleaner/pull/1) in [JustGritt/Smol-CSV-Cleaner](https://github.com/JustGritt/Smol-CSV-Cleaner)
+4. 💪 Opened PR [#1](https://github.com/JustGritt/Smol-CSV-Cleaner/pull/1) in [JustGritt/Smol-CSV-Cleaner](https://github.com/JustGritt/Smol-CSV-Cleaner)
+5. 🎉 Merged PR [#19](https://github.com/JustGritt/Payment-Platform/pull/19) in [JustGritt/Payment-Platform](https://github.com/JustGritt/Payment-Platform)
   <!--END_SECTION:activity-->
 </details>
