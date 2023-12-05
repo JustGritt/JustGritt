@@ -55,10 +55,10 @@ I'm Alexis, a 22 year old developer from France. I'm currently studying Web deve
   <summary>✨ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/JustGritt/ChallengeStack5A/pull/4) in [JustGritt/ChallengeStack5A](https://github.com/JustGritt/ChallengeStack5A)
-2. 💪 Opened PR [#4](https://github.com/JustGritt/ChallengeStack5A/pull/4) in [JustGritt/ChallengeStack5A](https://github.com/JustGritt/ChallengeStack5A)
-3. 🎉 Merged PR [#3](https://github.com/JustGritt/ChallengeStack5A/pull/3) in [JustGritt/ChallengeStack5A](https://github.com/JustGritt/ChallengeStack5A)
-4. 💪 Opened PR [#3](https://github.com/JustGritt/ChallengeStack5A/pull/3) in [JustGritt/ChallengeStack5A](https://github.com/JustGritt/ChallengeStack5A)
-5. 🎉 Merged PR [#1](https://github.com/JustGritt/ChallengeStack5A/pull/1) in [JustGritt/ChallengeStack5A](https://github.com/JustGritt/ChallengeStack5A)
+1. 🎉 Merged PR [#5](https://github.com/JustGritt/ChallengeStack5A/pull/5) in [JustGritt/ChallengeStack5A](https://github.com/JustGritt/ChallengeStack5A)
+2. 💪 Opened PR [#5](https://github.com/JustGritt/ChallengeStack5A/pull/5) in [JustGritt/ChallengeStack5A](https://github.com/JustGritt/ChallengeStack5A)
+3. 🎉 Merged PR [#4](https://github.com/JustGritt/ChallengeStack5A/pull/4) in [JustGritt/ChallengeStack5A](https://github.com/JustGritt/ChallengeStack5A)
+4. 💪 Opened PR [#4](https://github.com/JustGritt/ChallengeStack5A/pull/4) in [JustGritt/ChallengeStack5A](https://github.com/JustGritt/ChallengeStack5A)
+5. 🎉 Merged PR [#3](https://github.com/JustGritt/ChallengeStack5A/pull/3) in [JustGritt/ChallengeStack5A](https://github.com/JustGritt/ChallengeStack5A)
   <!--END_SECTION:activity-->
 </details>
