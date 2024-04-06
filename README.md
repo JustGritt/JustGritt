@@ -55,10 +55,10 @@ Hello! I'm Alexis, a passionate 24-year-old developer hailing from France. I'm c
   <summary>✨ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JustGritt/Turtle-Stable-Organizer/pull/1) in [JustGritt/Turtle-Stable-Organizer](https://github.com/JustGritt/Turtle-Stable-Organizer)
-2. 💪 Opened PR [#1](https://github.com/JustGritt/Turtle-Stable-Organizer/pull/1) in [JustGritt/Turtle-Stable-Organizer](https://github.com/JustGritt/Turtle-Stable-Organizer)
-3. 🎉 Merged PR [#5](https://github.com/JustGritt/Real-Time-Quizz/pull/5) in [JustGritt/Real-Time-Quizz](https://github.com/JustGritt/Real-Time-Quizz)
-4. 💪 Opened PR [#5](https://github.com/JustGritt/Real-Time-Quizz/pull/5) in [JustGritt/Real-Time-Quizz](https://github.com/JustGritt/Real-Time-Quizz)
-5. 🎉 Merged PR [#3](https://github.com/JustGritt/Real-Time-Quizz/pull/3) in [JustGritt/Real-Time-Quizz](https://github.com/JustGritt/Real-Time-Quizz)
+1. 🎉 Merged PR [#2](https://github.com/JustGritt/Turtle-Stable-Organizer/pull/2) in [JustGritt/Turtle-Stable-Organizer](https://github.com/JustGritt/Turtle-Stable-Organizer)
+2. 💪 Opened PR [#2](https://github.com/JustGritt/Turtle-Stable-Organizer/pull/2) in [JustGritt/Turtle-Stable-Organizer](https://github.com/JustGritt/Turtle-Stable-Organizer)
+3. 🎉 Merged PR [#1](https://github.com/JustGritt/Turtle-Stable-Organizer/pull/1) in [JustGritt/Turtle-Stable-Organizer](https://github.com/JustGritt/Turtle-Stable-Organizer)
+4. 💪 Opened PR [#1](https://github.com/JustGritt/Turtle-Stable-Organizer/pull/1) in [JustGritt/Turtle-Stable-Organizer](https://github.com/JustGritt/Turtle-Stable-Organizer)
+5. 🎉 Merged PR [#5](https://github.com/JustGritt/Real-Time-Quizz/pull/5) in [JustGritt/Real-Time-Quizz](https://github.com/JustGritt/Real-Time-Quizz)
   <!--END_SECTION:activity-->
 </details>
