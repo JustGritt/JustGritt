@@ -55,10 +55,10 @@ Hello! I'm Alexis, a passionate 24-year-old developer hailing from France. I'm c
   <summary>✨ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/JustGritt/Gritt-Ninja/pull/3) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
-2. 💪 Opened PR [#3](https://github.com/JustGritt/Gritt-Ninja/pull/3) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
-3. 🎉 Merged PR [#2](https://github.com/JustGritt/Gritt-Ninja/pull/2) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
-4. 💪 Opened PR [#2](https://github.com/JustGritt/Gritt-Ninja/pull/2) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
-5. 🎉 Merged PR [#1](https://github.com/JustGritt/Gritt-Ninja/pull/1) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
+1. 🎉 Merged PR [#4](https://github.com/JustGritt/Gritt-Ninja/pull/4) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
+2. 💪 Opened PR [#4](https://github.com/JustGritt/Gritt-Ninja/pull/4) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
+3. 🎉 Merged PR [#3](https://github.com/JustGritt/Gritt-Ninja/pull/3) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
+4. 💪 Opened PR [#3](https://github.com/JustGritt/Gritt-Ninja/pull/3) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
+5. 🎉 Merged PR [#2](https://github.com/JustGritt/Gritt-Ninja/pull/2) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
   <!--END_SECTION:activity-->
 </details>
