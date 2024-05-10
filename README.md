@@ -55,10 +55,10 @@ Hello! I'm Alexis, a passionate 24-year-old developer hailing from France. I'm c
   <summary>✨ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/JustGritt/Gritt-Ninja/pull/1) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
-2. 🎉 Merged PR [#9](https://github.com/JustGritt/Gritty-Survivor/pull/9) in [JustGritt/Gritty-Survivor](https://github.com/JustGritt/Gritty-Survivor)
-3. 💪 Opened PR [#9](https://github.com/JustGritt/Gritty-Survivor/pull/9) in [JustGritt/Gritty-Survivor](https://github.com/JustGritt/Gritty-Survivor)
-4. 🎉 Merged PR [#8](https://github.com/JustGritt/Gritty-Survivor/pull/8) in [JustGritt/Gritty-Survivor](https://github.com/JustGritt/Gritty-Survivor)
-5. 💪 Opened PR [#8](https://github.com/JustGritt/Gritty-Survivor/pull/8) in [JustGritt/Gritty-Survivor](https://github.com/JustGritt/Gritty-Survivor)
+1. 🎉 Merged PR [#1](https://github.com/JustGritt/Gritt-Ninja/pull/1) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
+2. 💪 Opened PR [#1](https://github.com/JustGritt/Gritt-Ninja/pull/1) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
+3. 🎉 Merged PR [#9](https://github.com/JustGritt/Gritty-Survivor/pull/9) in [JustGritt/Gritty-Survivor](https://github.com/JustGritt/Gritty-Survivor)
+4. 💪 Opened PR [#9](https://github.com/JustGritt/Gritty-Survivor/pull/9) in [JustGritt/Gritty-Survivor](https://github.com/JustGritt/Gritty-Survivor)
+5. 🎉 Merged PR [#8](https://github.com/JustGritt/Gritty-Survivor/pull/8) in [JustGritt/Gritty-Survivor](https://github.com/JustGritt/Gritty-Survivor)
   <!--END_SECTION:activity-->
 </details>
