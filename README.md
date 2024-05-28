@@ -55,10 +55,10 @@ Hello! I'm Alexis, a passionate 24-year-old developer hailing from France. I'm c
   <summary>✨ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/JustGritt/Ivoire-Jobs/pull/6) in [JustGritt/Ivoire-Jobs](https://github.com/JustGritt/Ivoire-Jobs)
-2. 💪 Opened PR [#6](https://github.com/JustGritt/Ivoire-Jobs/pull/6) in [JustGritt/Ivoire-Jobs](https://github.com/JustGritt/Ivoire-Jobs)
-3. 💪 Opened PR [#2](https://github.com/JustGritt/Ivoire-Jobs/pull/2) in [JustGritt/Ivoire-Jobs](https://github.com/JustGritt/Ivoire-Jobs)
-4. 🎉 Merged PR [#6](https://github.com/JustGritt/Gritt-Ninja/pull/6) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
-5. 💪 Opened PR [#6](https://github.com/JustGritt/Gritt-Ninja/pull/6) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
+1. 🎉 Merged PR [#2](https://github.com/JustGritt/Ivoire-Jobs/pull/2) in [JustGritt/Ivoire-Jobs](https://github.com/JustGritt/Ivoire-Jobs)
+2. 🎉 Merged PR [#6](https://github.com/JustGritt/Ivoire-Jobs/pull/6) in [JustGritt/Ivoire-Jobs](https://github.com/JustGritt/Ivoire-Jobs)
+3. 💪 Opened PR [#6](https://github.com/JustGritt/Ivoire-Jobs/pull/6) in [JustGritt/Ivoire-Jobs](https://github.com/JustGritt/Ivoire-Jobs)
+4. 💪 Opened PR [#2](https://github.com/JustGritt/Ivoire-Jobs/pull/2) in [JustGritt/Ivoire-Jobs](https://github.com/JustGritt/Ivoire-Jobs)
+5. 🎉 Merged PR [#6](https://github.com/JustGritt/Gritt-Ninja/pull/6) in [JustGritt/Gritt-Ninja](https://github.com/JustGritt/Gritt-Ninja)
   <!--END_SECTION:activity-->
 </details>
