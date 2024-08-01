@@ -55,10 +55,10 @@ Hello! I'm Alexis, a passionate 24-year-old developer hailing from France. I'm c
   <summary>✨ Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/JustGritt/BOTAN-Anime-Tracker/pull/1) in [JustGritt/BOTAN-Anime-Tracker](https://github.com/JustGritt/BOTAN-Anime-Tracker)
-2. 💪 Opened PR [#1](https://github.com/JustGritt/BOTAN-Anime-Tracker/pull/1) in [JustGritt/BOTAN-Anime-Tracker](https://github.com/JustGritt/BOTAN-Anime-Tracker)
-3. 🎉 Merged PR [#2](https://github.com/JustGritt/Flappy/pull/2) in [JustGritt/Flappy](https://github.com/JustGritt/Flappy)
-4. 💪 Opened PR [#2](https://github.com/JustGritt/Flappy/pull/2) in [JustGritt/Flappy](https://github.com/JustGritt/Flappy)
-5. 🎉 Merged PR [#1](https://github.com/JustGritt/Flappy/pull/1) in [JustGritt/Flappy](https://github.com/JustGritt/Flappy)
+1. 🎉 Merged PR [#1](https://github.com/JustGritt/Products-Lookup/pull/1) in [JustGritt/Products-Lookup](https://github.com/JustGritt/Products-Lookup)
+2. 💪 Opened PR [#1](https://github.com/JustGritt/Products-Lookup/pull/1) in [JustGritt/Products-Lookup](https://github.com/JustGritt/Products-Lookup)
+3. 🎉 Merged PR [#1](https://github.com/JustGritt/BOTAN-Anime-Tracker/pull/1) in [JustGritt/BOTAN-Anime-Tracker](https://github.com/JustGritt/BOTAN-Anime-Tracker)
+4. 💪 Opened PR [#1](https://github.com/JustGritt/BOTAN-Anime-Tracker/pull/1) in [JustGritt/BOTAN-Anime-Tracker](https://github.com/JustGritt/BOTAN-Anime-Tracker)
+5. 🎉 Merged PR [#2](https://github.com/JustGritt/Flappy/pull/2) in [JustGritt/Flappy](https://github.com/JustGritt/Flappy)
   <!--END_SECTION:activity-->
 </details>
