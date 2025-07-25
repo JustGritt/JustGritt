@@ -4,7 +4,7 @@
 
 ## 👓 About me
 
-Hello! I'm Alexis, a passionate 24-year-old developer hailing from France. I'm currently honing my skills in Web Development at [ESGI](https://www.esgi.fr/), a computer science school based in Paris. My interests span across web development, game development, and visual arts. I'm also an avid fan of anime and manga. 📚🎮🎨💡🛌
+Hello! I'm Alexis, a passionate developer hailing from France. My interests span across web development, game development, and visual arts. 📚🎮🎨💡🛌
 
 - 📫 Feel free to reach out to me at `alexistan.webdev@gmail.com` 🤖
 - 🌐 My personal [website](https://justgritt.github.io/) is under construction. Stay tuned! 😅
